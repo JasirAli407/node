@@ -1,0 +1,5 @@
+
+
+EXPRESS ASYNC HANDLER: this library is used to avoid the use of try catch blocks for every functions and pass all the errors to the error handler that we have created
+
+
